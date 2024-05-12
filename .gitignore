@@ -1,0 +1,7 @@
+# 忽略所有 .log 文件
+*.log
+ 
+# 忽略特定目录
+node_modules
+dist
+vitepress-starter
